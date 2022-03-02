@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x2DE3e6e9cDB0F3D997cD023B680e39aA86A8E6a9",
+  "SCAN_LINK": "https://polygonscan.com/address/0x2de3e6e9cdb0f3d997cd023b680e39aa86a8e6a9",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Avatarnime",
+  "SYMBOL": "AVE",
+  "MAX_SUPPLY": 12222,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Tofu",
+  "MARKETPLACE_LINK": "https://tofunft.com/user/0x6f03b283024EaBd17C96Df7aE3b5B5aC811Aa7f6/items/in-wallet",
+  "TWITTER": "Twitter",
+  "TWITTER_LINK": "https://twitter.com/Avatarnime",
+  "SHOW_BACKGROUND": true
+}
