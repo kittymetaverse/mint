@@ -139,13 +139,13 @@ function App() {
       })
       .once("error", (err) => {
         console.log(err);
-        setFeedback("Sorry, something went wrong please try again later.");
+        setFeedback("Sorry, something went wrong please try again later");
         setClaimingNft(false);
       })
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `Congrats, the ${CONFIG.NFT_NAME} is yours!`
+          `Congrats, the ${CONFIG.NFT_NAME} is minted!`
         );
         setClaimingNft(false);
         dispatch(fetchData(blockchain.account));
